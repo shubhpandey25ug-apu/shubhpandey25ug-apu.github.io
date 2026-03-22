@@ -6,21 +6,21 @@
     <description>Recent content on Moshi Moshi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2026 12:24:06 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 12:24:06 +0530</lastBuildDate>
     <atom:link href="https://shubhpandey25ug-apu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The nature of information problems</title>
+      <link>https://shubhpandey25ug-apu.github.io/posts/second/</link>
+      <pubDate>Sat, 28 Feb 2026 12:24:06 +0530</pubDate>
+      <guid>https://shubhpandey25ug-apu.github.io/posts/second/</guid>
+      <description>&lt;p&gt;The second unit begins with basics about images. I was already familiar with terms like pixels, bits, and bytes, so the earlier classes went well, and I was able to connect really well. The concept of greyscale image and its differentiation with colored images through the approach of RGB was interesting.   &lt;/p&gt;&#xA;&lt;p&gt;Then we did some transformative operations on images. These were so much similar to the next pattern of problems we do for mental reasoning. I was astonished to know its applications as they are the basic operation behind digital animation or effects of the video games we do play.   &lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://shubhpandey25ug-apu.github.io/posts/first/</link>
       <pubDate>Wed, 28 Jan 2026 12:24:06 +0530</pubDate>
       <guid>https://shubhpandey25ug-apu.github.io/posts/first/</guid>
       <description>&lt;h1 id=&#34;what-is-information&#34;&gt;What Is Information?&lt;/h1&gt;&#xA;&lt;p&gt;My course BRIS in Semester second began with the unit namely What is information? From the name of both the course (becoming a reflective information scientist) and the unit, i had an expectation to learn about things related to information like Gathering it, representing, analyzing, etc. the flow of this unit successes in fulfilling most of those expectations. In the start of this period of almost 3 weeks,  we got to learn about data-information-knowledge-wisdom model (DIKW), which is popular in the information systems literature, with its critiques. This part was a really good start but what I personally found more interesting was the later concepts like Introduction to markdown and wiki and more hands-on practices on wiki.&lt;br&gt;&#xA;I made my first GitHub account and learnt about how we can have a track of changes/ edits made in our code. these topics where interesting to learn and kept me engaged. i found setting my blog site a bit difficult due to some mistakes I made during creating the repository. I tried troubleshooting it a number of times and then even took help of my groupmates. When nothing worked, with the help of my instructor, i was able to deploy my website.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Second Post</title>
-      <link>https://shubhpandey25ug-apu.github.io/posts/second/</link>
-      <pubDate>Wed, 28 Jan 2026 12:24:06 +0530</pubDate>
-      <guid>https://shubhpandey25ug-apu.github.io/posts/second/</guid>
-      <description>&lt;p&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
