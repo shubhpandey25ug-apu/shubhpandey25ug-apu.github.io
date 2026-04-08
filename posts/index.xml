@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Moshi Moshi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Feb 2026 12:24:06 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 12:24:06 +0530</lastBuildDate>
     <atom:link href="https://shubhpandey25ug-apu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Unit 3</title>
+      <link>https://shubhpandey25ug-apu.github.io/posts/third/</link>
+      <pubDate>Fri, 03 Apr 2026 12:24:06 +0530</pubDate>
+      <guid>https://shubhpandey25ug-apu.github.io/posts/third/</guid>
+      <description>&lt;h1 id=&#34;reflecting-on-failure&#34;&gt;Reflecting On Failure&lt;/h1&gt;&#xA;&lt;p&gt;While we are doing programming, data representation, or any kind of technical stuff, it is very common for errors to happen. No doubt these errors or irregularities can be frustrating sometimes. It may feel like giving up or similar to that. Here comes the importance of reflecting on failure into the picture. We must know that failures are the best source to learn and even it is subjective learning (what is best for each individual) and hence, we can dive into the sites of improvement required for us. &lt;br&gt;&#xA;In this unit, we got to work on some case studies of famous failures in the technical field. It was group work as well so I got to collaborate and coordinate with some of my classmates and got to correct each other on points where needed.&lt;em&gt;This was the best assessment so far in this course&lt;/em&gt;. The case study assigned to our group was the &lt;strong&gt;Y2k bug&lt;/strong&gt;. This is also known as &lt;em&gt;the Millenium bug or 2000&amp;rsquo;s bug.&lt;/em&gt; The thing was that, programmers in the late 1900s used to denote year by only the last two digits &lt;em&gt;e.g. &amp;ldquo;89&amp;rdquo; for 1989.&lt;/em&gt; As soon as the time came closer to the 90s, people started worrying about what would happen at midnight of 31st December,1999 when the cloak would reach at 12:00 am. Will all the computer systems stop working? all the digital equipment start to act on their own?  Will the world end? Of course not. Our very existence is the answer that nothing like this happened. Still, some mistakes were seen like some babies born in 2000 got their birth year printed as 1900, some systems interpreted the &amp;ldquo;00&amp;rdquo; as 1900 and printed the same on the bill receipts. To rectify this bug and completely replace it with four digits year in dates, companies from the United States of America spent 100,000,000,000 $ (Hundred Billion USD) together, still no one died due to this &lt;strong&gt;&amp;ldquo;Y2K catastrophe&amp;rdquo;&lt;/strong&gt;.   &lt;/p&gt;</description>
+    </item>
     <item>
       <title>About Unit 2</title>
       <link>https://shubhpandey25ug-apu.github.io/posts/second/</link>
